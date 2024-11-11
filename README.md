@@ -1,7 +1,7 @@
-# LLMMove
+# MPRLLM
 
-This repository is the implementation of the method LLMMove.
+This repository is the implementation of the method MPRLLM.
 
 ## Dataset
 
-The dataset is the same as [STHGCN](https://github.com/ant-research/Spatio-Temporal-Hypergraph-Model/tree/main).
+A sample of the dataset is uploaded to https://drive.google.com/drive/folders/1givcu_t0IBtNZIa4BODKYLR2INWMIl62?usp=sharing
